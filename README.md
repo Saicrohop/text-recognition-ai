@@ -46,4 +46,3 @@ Este repositório contém um projeto prático de reconhecimento de texto em imag
 Se você quiser sugerir melhorias ou compartilhar seus próprios resultados, fique à vontade para abrir um pull request!
 
 ---
-🚀 Criado por [Seu Nome]
